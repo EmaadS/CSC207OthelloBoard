@@ -1,0 +1,47 @@
+Class:
+  ca.utoronto.utm.assignment1.othello.OthelloControllerRandomVSRandom
+
+Modifiers:
+  public
+
+Type Parameters:
+  -- No Type Parameters --
+
+Implemented Interfaces:
+  -- No Implemented Interfaces --
+
+Inheritance Path:
+  ca.utoronto.utm.assignment1.othello.ParentController
+  java.lang.Object
+
+Annotations:
+  -- No Annotations --
+
+Class:
+  ca.utoronto.utm.assignment1.othello.OthelloControllerRandomVSRandom
+
+Package:
+  ca.utoronto.utm.assignment1.othello
+
+Constuctors:
+  public ca.utoronto.utm.assignment1.othello.OthelloControllerRandomVSRandom(ca.utoronto.utm.assignment1.othello.Othello,ca.utoronto.utm.assignment1.othello.PlayerRandom,ca.utoronto.utm.assignment1.othello.PlayerRandom)
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public static void ca.utoronto.utm.assignment1.othello.OthelloControllerRandomVSRandom.main(java.lang.String[])
+  public char ca.utoronto.utm.assignment1.othello.OthelloControllerRandomVSRandom.play()
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public java.lang.String java.lang.Object.toString()
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+

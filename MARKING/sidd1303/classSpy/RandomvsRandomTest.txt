@@ -1,0 +1,45 @@
+Class:
+  ca.utoronto.utm.assignment1.othello.RandomvsRandomTest
+
+Modifiers:
+  public
+
+Type Parameters:
+  -- No Type Parameters --
+
+Implemented Interfaces:
+  -- No Implemented Interfaces --
+
+Inheritance Path:
+  java.lang.Object
+
+Annotations:
+  -- No Annotations --
+
+Class:
+  ca.utoronto.utm.assignment1.othello.RandomvsRandomTest
+
+Package:
+  ca.utoronto.utm.assignment1.othello
+
+Constuctors:
+  public ca.utoronto.utm.assignment1.othello.RandomvsRandomTest()
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public static void ca.utoronto.utm.assignment1.othello.RandomvsRandomTest.main(java.lang.String[])
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public java.lang.String java.lang.Object.toString()
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+

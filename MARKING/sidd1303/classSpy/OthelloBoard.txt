@@ -1,0 +1,55 @@
+Class:
+  ca.utoronto.utm.assignment1.othello.OthelloBoard
+
+Modifiers:
+  public
+
+Type Parameters:
+  -- No Type Parameters --
+
+Implemented Interfaces:
+  -- No Implemented Interfaces --
+
+Inheritance Path:
+  java.lang.Object
+
+Annotations:
+  -- No Annotations --
+
+Class:
+  ca.utoronto.utm.assignment1.othello.OthelloBoard
+
+Package:
+  ca.utoronto.utm.assignment1.othello
+
+Constuctors:
+  public ca.utoronto.utm.assignment1.othello.OthelloBoard(int)
+
+Fields:
+  public static final char ca.utoronto.utm.assignment1.othello.OthelloBoard.EMPTY
+  public static final char ca.utoronto.utm.assignment1.othello.OthelloBoard.P1
+  public static final char ca.utoronto.utm.assignment1.othello.OthelloBoard.P2
+  public static final char ca.utoronto.utm.assignment1.othello.OthelloBoard.BOTH
+
+Methods:
+  public static void ca.utoronto.utm.assignment1.othello.OthelloBoard.main(java.lang.String[])
+  public char ca.utoronto.utm.assignment1.othello.OthelloBoard.get(int,int)
+  public java.lang.String ca.utoronto.utm.assignment1.othello.OthelloBoard.toString()
+  public int ca.utoronto.utm.assignment1.othello.OthelloBoard.getCount(char)
+  public boolean ca.utoronto.utm.assignment1.othello.OthelloBoard.move(int,int,char)
+  public static char ca.utoronto.utm.assignment1.othello.OthelloBoard.otherPlayer(char)
+  public char ca.utoronto.utm.assignment1.othello.OthelloBoard.hasMove()
+  public int ca.utoronto.utm.assignment1.othello.OthelloBoard.getDimension()
+  public ca.utoronto.utm.assignment1.othello.Move ca.utoronto.utm.assignment1.othello.OthelloBoard.getGreedyMove(char)
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+

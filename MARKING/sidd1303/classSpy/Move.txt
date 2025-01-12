@@ -1,0 +1,46 @@
+Class:
+  ca.utoronto.utm.assignment1.othello.Move
+
+Modifiers:
+  public
+
+Type Parameters:
+  -- No Type Parameters --
+
+Implemented Interfaces:
+  -- No Implemented Interfaces --
+
+Inheritance Path:
+  java.lang.Object
+
+Annotations:
+  -- No Annotations --
+
+Class:
+  ca.utoronto.utm.assignment1.othello.Move
+
+Package:
+  ca.utoronto.utm.assignment1.othello
+
+Constuctors:
+  public ca.utoronto.utm.assignment1.othello.Move(int,int)
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public java.lang.String ca.utoronto.utm.assignment1.othello.Move.toString()
+  public int ca.utoronto.utm.assignment1.othello.Move.getRow()
+  public int ca.utoronto.utm.assignment1.othello.Move.getCol()
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+
